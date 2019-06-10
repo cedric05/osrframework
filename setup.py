@@ -123,7 +123,7 @@ setup(
         "pyexcel_io==0.1.0",
         "pyexcel_text==0.2.0",
         "tweepy",
-        "networkx",
+        "networkx==2.2",
         "decorator",
         "validate_email",
         #"pydns",
